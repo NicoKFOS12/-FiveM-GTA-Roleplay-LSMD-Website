@@ -20,12 +20,16 @@ Wir laden dich ein, unsere Plattform zu erkunden, von den Ressourcen zu profitie
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
+- Medizinische Themenbibliothek: Eine umfassende Sammlung von Ressourcen, Tutorials und Leitfäden zu verschiedenen medizinischen Themen, die für Rollenspiele relevant sind.
+- Interaktive Lernmodule: Interaktive Module und Übungen, die es den Benutzern ermöglichen, ihr Wissen über medizinische Konzepte anzuwenden und zu testen.
+- Personalisiertes Lernen: Die Möglichkeit für Benutzer, ihren Lernfortschritt zu verfolgen und personalisierte Lernempfehlungen zu erhalten, basierend auf ihren Interessen und ihrem Erfahrungslevel.
+- Suchfunktion und Filteroptionen: Eine benutzerfreundliche Suchfunktion und  Filteroptionen, um Benutzern das gezielte Auffinden von Informationen zu ermöglichen.
+- Diskussionsforen und Community-Interaktion: Foren oder Chatfunktionen, in denen Benutzer Fragen stellen, Erfahrungen austauschen und sich gegenseitig unterstützen können.
+- Benutzerprofile: Die Möglichkeit für Benutzer, Profile anzulegen, um ihren Lernfortschritt zu verfolgen, Badges oder Auszeichnungen zu verdienen und sich mit anderen Benutzern zu vernetzen.
+- Anpassbare Rollenspiel-Szenarien: Vorlagen oder Beispiele für Rollenspiel-Szenarien, die medizinische Aspekte integrieren, sowie Tools zum Erstellen eigener Szenarien.
+- Multimediale Inhalte: Die Integration von Videos, Diagrammen, Grafiken oder interaktiven Visualisierungen, um komplexe medizinische Konzepte verständlicher zu machen.
+- Mobile Unterstützung: Eine responsive Webdesign, das die Nutzung der Plattform auf verschiedenen Geräten, einschließlich Smartphones und Tablets, ermöglicht.
+- Open Source: Die Veröffentlichung des Projekts als Open-Source-Software, um die Zusammenarbeit und Mitwirkung der Community zu fördern.
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
@@ -36,8 +40,9 @@ Wir laden dich ein, unsere Plattform zu erkunden, von den Ressourcen zu profitie
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install open-lsmd
+  cd open-lsmd
+  npm start
 ```
     
 ## Usage/Examples
